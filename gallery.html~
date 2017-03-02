@@ -102,7 +102,7 @@
                                     <ul>
                                         <li><a href="blog-fullwidth.html">Blog Full</a></li>
                                         <li><a href="blog-left-sidebar.html">Blog Left sidebar</a></li>
-                                        <li><a href="blog-right-sidebaEMBRACE YOUR INNER NERDr.html">Blog Right sidebar</a></li>
+                                        <li><a href="blog-right-sidebar.html">Blog Right sidebar</a></li>
                                     </ul>
                                 </div>
                             </li>
@@ -114,7 +114,7 @@
                 <!-- /main nav -->
             </div>
         </header>
-        <!--EMBRACE YOUR INNER NERD
+        <!--
         ==================================================
         Global Page Section Start
         ================================================== -->
